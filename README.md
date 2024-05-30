@@ -15,5 +15,5 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fauzanazz&theme=monokai)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![trophy](https://github-profile-trophy.vercel.app/?username=fauzanazz&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
-[![Anurag's GitHub stats](https://github-readme-stats-fauzanazzs-projects.vercel.app/api?username=fauzanazz&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-fauzanazzs-projects.vercel.app/api?username=fauzanazz&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fauzanazz&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
