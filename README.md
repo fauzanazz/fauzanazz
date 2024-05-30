@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fauzan!</h1>
-<h3 align="center">A passionate GameDeveloper that likes to do CTF. He is currently studying in the 3rd semester of informatics engineering. He is currently working on a mobile game project.</h3>
-
-- 🔭 I’m currently working on **Unnamed Mobile Games**
-
-- 🌱 I’m currently learning **Next JS**
+<h3 align="center">A passionate GameDeveloper that likes to do CTF. He is currently studying in the 4rd semester of informatics engineering.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
