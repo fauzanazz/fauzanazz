@@ -4,8 +4,8 @@
 ###
 
 <p align="left">Current project:</p>
-- Card Mobile Games with Mugoro Production <br>
-- IRK Task <br>
+- Creating my own web porto <br>
+- Making Games <br>
 - Exploring AI <br>
 
 ###
