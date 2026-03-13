@@ -22,8 +22,8 @@ Infra & DevOps : Docker Swarm, Traefik, Dokploy, RabbitMQ, AWS
 CONTACT
 ---------------------------------------------------------------------------
 
-Email    : <a href="mailto:jrakhaila@gmail.com" style="text-decoration: none; color: #58a6ff;">jrakhaila@gmail.com</a>
-LinkedIn : <a href="https://linkedin.com/in/your-profile" style="text-decoration: none; color: #58a6ff;">linkedin.com/in/your-profile</a>
+Email    : <a href="mailto:mfauzan.az23@gmail.com" style="text-decoration: none; color: #58a6ff;">jrakhaila@gmail.com</a>
+LinkedIn : <a href="https://linkedin.com/in/fauzanazhim" style="text-decoration: none; color: #58a6ff;">linkedin.com/in/fauzanazhim</a>
 
 Open for collaboration.
 </pre>
