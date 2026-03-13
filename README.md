@@ -13,10 +13,10 @@ TECH STACK
 ---------------------------------------------------------------------------
 
 Languages      : TypeScript, Python, C#, Golang
-Frameworks     : Next.js 15, Hono.js, FastAPI, Unity
-Databases      : PostgreSQL, Qdrant, Redis, MinIO
+Frameworks     : Next.js 15, Hono.js, FastAPI, Unity, Tanstack
+Databases      : PostgreSQL, Qdrant, Redis, MinIO, Supabase
 AI/ML          : Transformers, LlamaIndex, LangChain
-Infra & DevOps : Docker Swarm, Traefik, Dokploy, RabbitMQ
+Infra & DevOps : Docker Swarm, Traefik, Dokploy, RabbitMQ, AWS
 
 ---------------------------------------------------------------------------
 CONTACT
