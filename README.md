@@ -30,41 +30,6 @@ editor_config: more lines than my actual projects
 status: probably refactoring something that already worked
 ```
 
-### `~/projects`
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🌿 <a href="https://github.com/fauzanazz/pixelart-3d-grass-shader">pixelart-3d-grass-shader</a></h4>
-      Chunky, swaying 3D grass with a pixel-art look. Touch it. (You can't. It's a shader.)
-    </td>
-    <td width="50%" valign="top">
-      <h4>🥽 <a href="https://github.com/fauzanazz/VR_Dyslexia_monorepo">VR_Dyslexia_monorepo</a></h4>
-      VR built around dyslexia — immersive tech pointed at something that matters.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🎫 <a href="https://github.com/fauzanazz/i-got-a-ticket">i-got-a-ticket</a></h4>
-      The name says it. The story behind it says more.
-    </td>
-    <td width="50%" valign="top">
-      <h4>🆘 <a href="https://github.com/fauzanazz/help-me">help-me</a></h4>
-      A cry for help, version controlled.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>⚙️ <a href="https://github.com/fauzanazz/dotfiles">dotfiles</a></h4>
-      My whole machine in a repo. Steal responsibly.
-    </td>
-    <td width="50%" valign="top">
-      <h4>🥧 <a href="https://github.com/fauzanazz/dot-pi">dot-pi</a></h4>
-      Config and setup for the tiny computer doing the big jobs.
-    </td>
-  </tr>
-</table>
-
 ### `~/stack`
 
 <div align="center">
@@ -74,14 +39,12 @@ status: probably refactoring something that already worked
 ### `~/stats`
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fauzanazz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzanazz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fauzanazz&theme=tokyonight" width="100%" alt="Profile details and contribution graph" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fauzanazz&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fauzanazz&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution graph" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fauzanazz&theme=tokyonight" alt="GitHub stats" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fauzanazz&theme=tokyonight" alt="Repos per language" />
+  <br />
+  <img src="https://streak-stats.demolab.com/?user=fauzanazz&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
 
 ---
